@@ -1,0 +1,47 @@
+/* Apply style to an HTML tag */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Create a class, apply it to elements, and style it */
+.my-class {
+    font-weight: bold;
+}
+
+/* Create an ID, apply it to an element, and style it */
+#site-title {
+    font-size: 24px;
+    color: #0077b6;
+}
+
+/* Use a CSS selector to change the color of <a> on hover */
+a:hover {
+    color: #ff5733;
+}
+
+/* Change box model properties for elements */
+section {
+    margin: 20px;
+    padding: 10px;
+}
+
+/* Style the navigation links */
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    margin-right: 10px;
+    display: inline;
+}
+
+/* Style the image */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
