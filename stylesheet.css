@@ -1,16 +1,14 @@
-/* Apply style to an HTML tag */
+
 body {
     font-family: Arial, sans-serif;
-    background-color: lightblue;
+    background-color: blue;
     color: black;
 }
 
-/* Create a class, apply it to elements, and style it */
 .my-class {
     font-weight: bold;
 }
 
-/* Create an ID, apply it to an element, and style it */
 #site-title {
     font-size: 24px;
     color: darkblue;
@@ -20,7 +18,7 @@ a:hover {
     color: red;
 }
 
-/* Change box model properties for elements */
+
 section {
     margin: 20px;
     padding: 10px;
